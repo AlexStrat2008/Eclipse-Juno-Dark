@@ -103,7 +103,7 @@ Label {
 	color: #999999;
 }
 
-.MPart Composite {
+.MPart Composite,.MPart#org-eclipse-ui-console-ConsoleView {
 	background-color: #333;
 	color: #DDD;
 }
