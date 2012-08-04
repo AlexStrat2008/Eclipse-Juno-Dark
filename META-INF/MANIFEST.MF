@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Eclipse UI Themes
-Bundle-SymbolicName: com.github.eclipsecolortheme.themes;singleton:=true
+Bundle-SymbolicName: Eclipse_Juno_Dark;singleton:=true
 Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: com.github.eclipsecolortheme.themes.Activator
+Bundle-Activator: k.eclipse.junodark.Activator
 Bundle-Vendor: eclipsecolorthemes.org
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,

@@ -1,4 +1,4 @@
-package com.github.eclipsecolortheme.themes;
+package k.eclipse.junodark;
 
 import org.eclipse.ui.plugin.AbstractUIPlugin;
 import org.osgi.framework.BundleContext;
